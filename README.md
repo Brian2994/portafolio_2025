@@ -44,3 +44,5 @@ Desarrollé una página web simple como práctica personal de **frontend**, apli
 Mi objetivo es crecer como profesional en el campo de la **Ingeniería de Datos**, desarrollando soluciones eficientes para el procesamiento, transformación y análisis de datos que aporten valor a las organizaciones.
 
 ---
+
+# portafolio_2025
