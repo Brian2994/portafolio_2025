@@ -84,7 +84,7 @@ body {
   /* alternar fondos */
 }
 
-.section h2 {
+section h2 {
   font-size: 2.2rem;
   margin-bottom: 3rem;
   color: #1e88e5;
@@ -92,7 +92,7 @@ body {
   display: inline-block;
 }
 
-.section h2::after {
+section h2::after {
   content: '';
   display: block;
   width: 60px;
